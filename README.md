@@ -1,14 +1,46 @@
 # Hello! I’m Luis Salazar 👋 
-#### **Web Designer and Full-Stack Developer** 📱👨‍💻🇲🇽
+#### **Web Designer and Full-Stack Developer** 📱👨‍💻
 
 #### 💪 My Stack
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-6b3fc8?style=flat-square&logo=astro&logoColor=white) <img src="https://img.shields.io/badge/-Vue.js-dadada?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js Badge"> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+**Frontend:**<br/>
+<img height="30" src="https://img.shields.io/badge/-Angular-%23F9423A?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+<img height="30" src="https://img.shields.io/badge/-React-%23F9423A?style=flat-square&logo=react&logoColor=white" alt="React">
+<img height="30" src="https://img.shields.io/badge/Astro-%23F9423A?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+<img height="30" src="https://img.shields.io/badge/-Vue.js-%23F9423A?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+<img height="30" src="https://img.shields.io/badge/-JavaScript-%23F9423A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+<img height="30" src="https://img.shields.io/badge/-TypeScript-%23F9423A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img height="30" src="https://img.shields.io/badge/Ionic-%23F9423A?style=flat-square&logo=ionic&logoColor=white" alt="Ionic">
+<img height="30" src="https://img.shields.io/badge/Flutter-%23F9423A?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+<img height="30" src="https://img.shields.io/badge/Dart-%23F9423A?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+<img height="30" src="https://img.shields.io/badge/HTML-%23F9423A?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+<img height="30" src="https://img.shields.io/badge/CSS-%23F9423A?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+<img height="30" src="https://img.shields.io/badge/Sass-%23F9423A?style=flat-square&logo=sass&logoColor=white" alt="Sass">
+<img height="30" src="https://img.shields.io/badge/Tailwind%20CSS-%23F9423A?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img height="30" src="https://img.shields.io/badge/Bootstrap-%23F9423A?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img height="30" src="https://img.shields.io/badge/Angular%20Material-%23F9423A?style=flat-square&logo=angular&logoColor=white" alt="Angular Material">
+<img height="30" src="https://img.shields.io/badge/Vuetify-%23F9423A?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify">
+<img height="30" src="https://img.shields.io/badge/-jQuery-%23F9423A?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Angular Material](https://img.shields.io/badge/Angular%20Material-DD0031?style=flat-square&logo=angular&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4A8F98?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F0?style=flat-square&logo=webpack&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6AB04C?style=flat-square&logo=microsoft&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-6CC24A?style=flat-square&logo=openapiinitiative&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) 
+**Backend & Other:**<br/>
+<img height="30" src="https://img.shields.io/badge/.NET-%2300788C?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+<img height="30" src="https://img.shields.io/badge/C%23-%2300788C?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+<img height="30" src="https://img.shields.io/badge/Laravel-%2300788C?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+<img height="30" src="https://img.shields.io/badge/PHP-%2300788C?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img height="30" src="https://img.shields.io/badge/Node.js-%2300788C?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img height="30" src="https://img.shields.io/badge/SQL-%2300788C?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+<img height="30" src="https://img.shields.io/badge/Firebase-%2300788C?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+<img height="30" src="https://img.shields.io/badge/AWS-%2300788C?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+<img height="30" src="https://img.shields.io/badge/Azure-%2300788C?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+<img height="30" src="https://img.shields.io/badge/Git-%2300788C?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img height="30" src="https://img.shields.io/badge/npm-%2300788C?style=flat-square&logo=npm&logoColor=white" alt="npm">
+<img height="30" src="https://img.shields.io/badge/Webpack-%2300788C?style=flat-square&logo=webpack&logoColor=white" alt="Webpack">
+<img height="30" src="https://img.shields.io/badge/Entity%20Framework-%2300788C?style=flat-square&logo=microsoft&logoColor=white" alt="Entity Framework">
+<img height="30" src="https://img.shields.io/badge/RESTful%20APIs-%2300788C?style=flat-square&logo=openapiinitiative&logoColor=white" alt="RESTful APIs">
+<img height="30" src="https://img.shields.io/badge/WordPress-%2300788C?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
 
 #### 🙋‍♂️ A bit About me
 
-Highly experienced Web Designer & Full-Stack Developer with 25+ years in the digital realm. Proven track record in crafting user-centric solutions across web, apps, and custom systems. Strong soft skills, including leadership and teamwork. Currently available for remote freelance opportunities.
+Highly experienced **Web Designer & Full-Stack Developer with 25+ years** in the digital realm. Proven track record in crafting user-centric solutions across web, apps, and custom systems. Strong soft skills, including leadership and teamwork. Currently **available for remote freelance** opportunities.
 
 ## Contact me
 
