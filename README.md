@@ -44,6 +44,6 @@ Highly experienced **Web Designer & Full-Stack Developer with 25+ years** in the
 
 ## Contact me
 
-* **LinkedIn:** [https://linkedin.com/in/luisurruela](https://www.linkedin.com/in/luisurruela/)
-* **Email:** luis.urruela@neweratech.com
-* **Website:** [https://luisurruela.github.io/](https://luisurruela.github.io/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%23280071?style=flat-square&logo=linkedin&logoColor=white&logoSize=20)](https://linkedin.com/in/luisurruela)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-%23280071?style=flat-square&logo=gmail&logoColor=white&logoSize=20)](mailto:luis.urruela@neweratech.com)
+[![Website](https://img.shields.io/badge/Website-Visit-%23280071?style=flat-square&logo=github&logoColor=white&logoSize=20)](https://luisurruela.github.io/)
